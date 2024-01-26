@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../../home/naol/naol/Web-project/Web-project/contact us page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "job",
+		"liveServer.settings.port": 5501
+	}
+}
