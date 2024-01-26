@@ -20,7 +20,7 @@
     }
 
     .links {
-      margin-top: 10px;
+      margin-top: 20px;
       text-align: center;
      
     }
@@ -29,6 +29,7 @@
       list-style-type: none;
       padding: 0;
       margin: 0;
+      margin-top: 10px;
     }
 
     .links li {
