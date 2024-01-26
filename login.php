@@ -1,3 +1,7 @@
+
+<?php
+include 'header.php';
+?>
 <?php
 include('./config/constant.php');
 if(isset($_POST['email'])){
